@@ -1,0 +1,34 @@
+{
+  "users": [],
+  "conversations": [
+    {
+      "name": "Marketing",
+      "id": 1
+    },
+    {
+      "name": "Engineering",
+      "id": 2
+    },
+    {
+      "name": "Sales",
+      "id": 3
+    }
+  ],
+  "messages": [
+    {
+      "content": "Hi welcome to Marketing",
+      "conversationId": "1",
+      "id": 1
+    },
+    {
+      "content": "Hi welcome to Engineering",
+      "conversationId": "2",
+      "id": 2
+    },
+    {
+      "content": "Hi Welcome to Sales",
+      "conversationId": "3",
+      "id": 3
+    }
+  ]
+}
